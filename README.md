@@ -1,35 +1,50 @@
 ### Hi there, I'm Sahand Jamalzadeh 👋
 
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=jamalzadeh-sahand)](https://github.com/jamalzadeh-sahand)
+
 ## About Me
 - 🎓 University student at the University of London
 - 💻 Passionate about Python, Java, and JavaScript
 - 🧠 Enthusiastic about AI and backend development
-- 📚 Keen on philosophy, 🎵 music, and ☕ coffee
-- ✈️ Loves to travel and explore new horizons
+- 📚 Lover of philosophy, 🎵 music, and ☕ coffee
+- ✈️ Avid traveler & explorer of new horizons
 
 ## 🔭 What I'm Up To
-- Currently working on exciting university projects
-- Exploring the fascinating world of AI and its applications
-- Expanding my skills in backend web development
-- Collaborating on open-source projects
-- Brewing the perfect cup of coffee ☕
+- 🚀 Building innovative projects and diving into cutting-edge tech
+- 🤖 Experimenting with AI applications and machine learning models
+- 🖥️ Enhancing backend systems and designing robust APIs
+- 👨‍💻 Contributing to open-source projects and communities
+- ☕ Perfecting my coffee brewing and coding workflow
 
-## 🌱 Learning Journey
-- Always eager to learn and grow
-- Diving deep into advanced Python libraries
-- Exploring the latest in AI and machine learning
-- Expanding my Java and JavaScript knowledge
+## 💼 Skills & Technologies
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!-- Add more badges as desired -->
 
 ## 🚀 GitHub Stats
 
-<!-- GitHub Stats Card -->
-[![Sahand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamalzadeh-sahand&show_icons=true&theme=default)](https://github.com/jamalzadeh-sahand/github-readme-stats)
+<!-- Overall GitHub stats card -->
+[![Sahand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamalzadeh-sahand&show_icons=true&theme=onedark)](https://github.com/jamalzadeh-sahand/github-readme-stats)
 
-<!-- Top Languages Card -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamalzadeh-sahand&layout=compact&theme=default)](https://github.com/jamalzadeh-sahand/github-readme-stats)
+<!-- Top Languages card -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamalzadeh-sahand&layout=compact&theme=onedark)](https://github.com/jamalzadeh-sahand/github-readme-stats)
+
+<!-- GitHub Trophies card -->
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jamalzadeh-sahand&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⏱️ Coding Activity
 
-<!-- WakaTime Card - tracks your coding hours (make sure to set up your WakaTime account and add your username) -->
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=default)](https://wakatime.com)
+<!-- WakaTime Card - replace `your-wakatime-username` with your actual username -->
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=onedark)](https://wakatime.com)
 
+## 📫 Get in Touch
+- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+
+---
+
+*Feel free to explore my projects, drop a message, or collaborate on exciting ideas!*

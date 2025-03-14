@@ -38,7 +38,7 @@
 ## ⏱️ Coding Activity
 
 <!-- WakaTime Card - replace `your-wakatime-username` with your actual username -->
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=jamalzadeh-sahand&theme=onedark)](https://wakatime.com)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=jamalzadeh_sahand&theme=onedark)](https://wakatime.com)
 
 ## 📫 Get in Touch
 - [Email](mailto:sahand@iti-istanbul.com)

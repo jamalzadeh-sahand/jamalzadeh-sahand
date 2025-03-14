@@ -38,12 +38,12 @@
 ## ⏱️ Coding Activity
 
 <!-- WakaTime Card - replace `your-wakatime-username` with your actual username -->
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=onedark)](https://wakatime.com)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=jamalzadeh-sahand&theme=onedark)](https://wakatime.com)
 
 ## 📫 Get in Touch
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+- [Email](mailto:sahand@iti-istanbul.com)
+- [LinkedIn](wwww.linkedin.com/in/sahand-it-support)
+
 
 ---
 

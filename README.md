@@ -16,21 +16,20 @@
 
 ## 🌱 Learning Journey
 - Always eager to learn and grow
-- Currently diving deep into advanced Python libraries
+- Diving deep into advanced Python libraries
 - Exploring the latest in AI and machine learning
 - Expanding my Java and JavaScript knowledge
 
-<!--
-**jamalzadeh-sahand/jamalzadeh-sahand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 GitHub Stats
 
-Here are some ideas to get you started:
+<!-- GitHub Stats Card -->
+[![Sahand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamalzadeh-sahand&show_icons=true&theme=default)](https://github.com/jamalzadeh-sahand/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Top Languages Card -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamalzadeh-sahand&layout=compact&theme=default)](https://github.com/jamalzadeh-sahand/github-readme-stats)
+
+## ⏱️ Coding Activity
+
+<!-- WakaTime Card - tracks your coding hours (make sure to set up your WakaTime account and add your username) -->
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=default)](https://wakatime.com)
+
